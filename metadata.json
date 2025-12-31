@@ -1,0 +1,8 @@
+
+{
+  "name": "Vijay Electronics Unnao | Authorized CP PLUS CCTV Store",
+  "description": "Unnao's leading Authorized CP PLUS CCTV Store and Service Center. Specialist in Hikvision, Dahua, and CP PLUS security systems, laptop repairs, and IT solutions in Purani Bazar, Unnao.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
