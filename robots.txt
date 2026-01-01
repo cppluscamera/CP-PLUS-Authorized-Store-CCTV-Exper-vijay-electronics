@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cppluscamera.github.io/CP-PLUS-Authorized-Store-CCTV-Exper-vijay-electronics/sitemap.xml
